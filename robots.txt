@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://padmashreedhar.sanchaya.net/sitemap.xml
